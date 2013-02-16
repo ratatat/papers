@@ -1,4 +1,3 @@
-papers
-======
+# Papers
 
 All my papers
